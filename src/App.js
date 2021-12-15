@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import Birthday from './Components/birthday';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello World</h1>
+      <Birthday />
     </div>
   );
 }
