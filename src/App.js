@@ -1,13 +1,11 @@
-import logo from './logo.svg';
+
 import './App.css';
-import Birthday from './Components/birthday';
-import Form from './Components/Form';
+import HelloWorld from './Components/HelloWorld';
 
 function App() {
   return (
     <div className="App">
-      {/* <Birthday /> */}'
-      <Form/>
+      <HelloWorld />
     </div>
   );
 }
