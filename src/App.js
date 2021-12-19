@@ -7,9 +7,7 @@ import LinkCom from "./Components/LinkCom";
 function App() {
   return (
     <div className="App">
-      {/* <Birthday /> */}'
-      <Form/>
-      {/* <LinkCom /> */}
+      <LinkCom />
     </div>
   );
 }
