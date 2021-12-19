@@ -1,7 +1,6 @@
 .App {
-  margin: 10px 30px;
-  /* text-align: center; */
-  /* margin:5% 0; */
+  padding: 31px;
+  background-image: url('./Image/bg-form.jpg');
 }
 
 .App-logo {

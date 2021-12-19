@@ -1,4 +1,4 @@
-import { Grid, Paper, TextField,Stack } from "@mui/material";
+import { Grid, Paper, TextField, Stack } from "@mui/material";
 import React, { useState } from "react";
 
 function Form() {
@@ -25,6 +25,9 @@ function Form() {
               fontSize: "18px",
               fontWeight: 600,
               textAlign: "center",
+              background: "rgb(194,239,250)",
+              background:
+                "linear-gradient(90deg, rgba(194,239,250,1) 0%, rgba(255,255,255,1) 50%, rgba(213,240,245,1) 100%)",
             }}
           >
             <h2>Form</h2>
@@ -78,6 +81,9 @@ function Form() {
               padding: "30px 20px",
               fontSize: "18px",
               fontWeight: 600,
+              background: "rgb(194,239,250)",
+              background:
+                "linear-gradient(90deg, rgba(194,239,250,1) 0%, rgba(255,255,255,1) 50%, rgba(213,240,245,1) 100%)",
             }}
           >
             <h2 style={{ textAlign: "center" }}>Your Form Data</h2>
