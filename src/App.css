@@ -1,6 +1,9 @@
 .App {
   text-align: center;
-  margin:5% 0;
+  padding:8% 0;
+  background-image: url('./Image/bg-birth.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .App-logo {
